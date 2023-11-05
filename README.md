@@ -9,3 +9,8 @@ device accelerometer¨ and gyroscopic sensors to detect relevant changes in the 
 a parked bike and immediately notify users. The companion application will notify users
 of these changes through push notifications. The application will allow users to track their
 bike in the event immediate intervention is not possible"
+
+How to connect?
+connect to database with this link: http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=login_register&table=users
+WebPage link: http://localhost/cycle_secure/registration.php
+Update Database Manually, inorder to see notification for user. Sensors and Hardware resources anre not integrated with this!
