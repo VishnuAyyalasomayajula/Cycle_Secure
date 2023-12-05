@@ -1,0 +1,22 @@
+body {
+    padding: 50px;
+    background-color: #6E77A3; /* A deep blue-gray background color for the body */
+    color: #d8dee9; /* Light gray text color on the blue-gray background */
+    background-image: url('C:\xampp\htdocs\cycle_secure\background.jpg'); /* Replace 'your-image.jpg' with your image file path */
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #3b4252; /* A slightly lighter blue-gray background for the container */
+
+}
+
+.form-group {
+    margin-bottom: 30px;
+    color: #e5e9f0; /* Light gray text color within the form group */
+}
